@@ -1,0 +1,41 @@
+ What does it do? (600 words) ​What is the state of the art of this new technology? What can be done now? What is likely to be able to do be done soon (say in the next 3 years)? What technological or other developments make this possible?
+Machine learning is an application of artificial intelligence(AI). Machine learning technology can study and improve themselves beyond programming. It can access the data and use it to learn. This process starts at the taking look at the data, having an experience, looking for a pattern, and have a better decision. The main goal of this process is a machine can learn themselves without human help or intervention.
+This technology has four types. Supervised, unsupervised, semisupervised, and reinforcement. 
+Supervised learning is an algorithm that makes a mathematical model with data of inputs and the desired outputs called training data. And it has some examples that contain another input and desired output known as a supervisory signal. In the mathematical situation, these examples are discussed by an array, vector, or feature vector, and data is represented as a matrix. Supervised learning algorithms are studying using these inputs to predict the output related to new inputs. However, if outputs are restricted values, it uses algorithms called classification algorithms. If outputs have a numerical value in the range, it uses regression algorithms.
+Unsupervised algorithms have inputs only and it finds output and structure in the data. These algorithms learned from unclassified test data. It learns similarities from each different data and analyzes absences and similarities.
+Semisupervised algorithms is a middle between unsupervised algorithms and supervised algorithms. Some examples are labeled and other examples are not labeled. People use these examples to make conjunction after that it can improve in learning accuracy.
+Reinforcement learning is an area of machine learning. Software developers are owing to do some actions in a specific environment. This field, called Markov Decision  Process(MDP) is effected by some regulations or norms such as game theory, control theory, operations research, and genetic algorithms. Also, there are many forms and disciplines that can be used in this circumstance. Most of these algorithms use dynamic programming techniques. It doesn't anticipate exactly in the MDP but it is used when the exact model is in an infeasible situation. This algorithm is used at autonomous vehicles or bot in the games.
+Today, when they train the AI to have machine learning algorithms, developers should find the right examples and A.I is starting from the bottom to learn. It's like taking care of the baby. However, technological advances will make the future of machine learning brightly. According to experts, a multifunctional model can solve this challenge. That model is already trained about some fundamental parts like recognize user's faces or comprehends differences between dogs and cats. On the other hand, there is an obstacle to acquiring this model. When we build this model, it needs a lot of interesting, great quality computer systems and the structure of the model.
+But, after this advance, AI will be more efficient and trained A.I will rapidly increase.
+This is a step for developing machine learning applications. 1. Problem framing 2. Collect and clean the data 3. Prepare data for ML application 4. Feature engineering 5. Training model 6. Evaluating and improving model accuracy
+Here, we can describe these steps as a process of education. The developer is just like a teacher. Problem framing is like scheduling the education, collect and clean the data, prepare data for ML application are like a providing education resources. We can know that developer's role is the most important to develop machine learning.
+In conclusion, machine learning algorithms indicates that the machine can learn themselves without human. The developer's role is just to provide examples and data for machines can educate well. Also, in the future, we don't have to arrange these steps anymore.
+
+
+
+
+
+What is the likely impact? (300 words) ​What is the potential impact of this development? What is likely to change? Which people will be most affected and how? Will this create, replace or make redundant any current jobs or technologies?
+We can find this technique in many workplaces and common devices.
+Machine learning technology makes it possible to analyze big amount of data and easy to find. This big data has a big potential and makes business more efficient. Today, in the medical aspects, the doctor's eye decide what the disease is and make a prescription. But, in the future, a machine that learns medical imaging fields can diagnose the problem. This improvement can be helpful in rural areas and poor countries that don't have capable doctors or areas that doctors can approach.
+Speech recognition is progress that machine translate the speech to a text file. It is used at translater, voice interfaces, and search applications. In foreign people's conversations, many people are using translater applications. But there is some issue inaccuracy. However, in the future, this progress developed well and people don't need to learn a foreign language anymore. Also, the interpreter can be replaced. 
+Especially, smart learning has much potential for financial services. AI learned from financial data to find a trend. After the training, people can recognize changes and react immediately.
+One of the recent trends in the car is self-driving technology. In the road, every situation and behavior are changed every moment. AI cars can have temporary decision so there is difficulty. But, machine learning will analyze the road situation, recognize the patterns, and give the prediction. Machine learning technology makes development in autonomous vehicles.
+On the other hand, machine learning can replace some jobs. As you know interpreter can be replaced by a translator application. And also, many reports and researchers expect that vehicle drivers will be replaced in the future.
+
+How will this affect you? (300 words) ​In your daily life, how will this affect you? What will be different for you? How might this affect members of your family or your friends?
+These are the example of machine learning technology that we can see in our daily life.
+In the house, IoT(Internet of things) home systems have face recognition. So they can recognize the home owner's face, visitors who are invited, and uninvited visitors. It also arranges your schedule and records your daily pattern like when you wake up, go to work, doing exercise, something like that.
+When you are watching videos on Youtube, watching daily news on the internet, or using Spotify to listen to music, you will see the recommendations of sites. These recommendations are coming from the machine-learning and big data technology that recognizes the pattern, finding the data you like, and recommend it.
+In these days, when we are driving, we can see many autonomous cars are running on the road. These vehicles are consist of sensors and machine learning technology. Since these vehicles are manufactured, people don't have to focus while driving and feel tired. They just put their hands on the steering wheel.  In my case, when my family been on the trip, I don't feel tired while driving to the destination. 
+We can meet machine learning technology more common than you think. It helps and manages us for an efficient and comfortable life.  As a result, people are affected by machine learning surrounding everywhere. In daily life, we see an advertisement on the internet that relies on big data and machine learning. Geeting management by healthcare applications is also based on machine learning. Machine learning technology is not a technology that we can only see at the science fiction novel.
+
+.
+
+
+https://expertsystem.com/machine-learning-definition/
+https://www.protiviti.com/US-en/insights/effects-machine-learning
+https://dzone.com/articles/future-of-machine-learning-why-learn-machine-learn
+https://en.wikipedia.org/wiki/Machine_learning
+https://www.greenbiz.com/article/we-will-still-need-drivers-driverless-future
+https://www.delta-net.com/compliance/cyber-security/faqs/how-does-cyber-affect-us
