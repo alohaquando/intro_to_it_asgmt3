@@ -1,0 +1,7 @@
+Hi, my name is Taesung. I am a main developer. I will describe our workout application and what is different compared with other workout application.
+We can descibe our application by three words
+User friendly, kind, mulitifunctional application
+friendly - As you know, abilities between people who are the first time of the workout and already have an experience before have a gap. But, most workout applications are focusing to the experienced people so basic people can face their bar and though to follow their steps and goals. On the other hand, our application involves basic people and experienced people. It means basic people can more enjoy and concentrate their own routines, and aims when they setting a goal.
+kind - we will describe the exercises step by step so basic people can easily understand the entire pose
+multifunctional - One of our aims is making people don't give up and continue the workout. To make them doing it, our application will contain many functions. Alarm system for life routine, timetabling for managing diet, contents of current and precise information and physical training. The most attractive function is a motivation. User can get motivation from photos of idols, influencers, and weight. In our opinion, this function is the most identify thing than other application.
+And now, I'd like to hand over to Jaejun
